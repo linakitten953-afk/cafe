@@ -4,7 +4,7 @@
 
 **Выполнила:** Филиппова Лина, группа 9ИС-370.
 
-## 🛠 Стек технологий
+## Стек технологий
 *   **Backend:** C# (ASP.NET Core, .NET 7)
 *   **Frontend:** HTML5, CSS3, Vanilla JavaScript (SPA-архитектура)
 *   **База данных:** SQLite (файл `coffee.db`)
