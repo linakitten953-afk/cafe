@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "18tBzyKmm78+HiHvqi7K59P+j5/EbdSfuTJzVLRXaJs=",
+  "Source": "CoffeeApp",
+  "BasePath": "_content/CoffeeApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoffeeApp\\wwwroot",
+      "Source": "CoffeeApp",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\",
+      "BasePath": "_content/CoffeeApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\app.js",
+      "SourceId": "CoffeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\",
+      "BasePath": "_content/CoffeeApp",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gcp0v0bfla",
+      "Integrity": "sJCM7+vQD+XDCku7i61gSYpin8Fy0JSsSCBM+9BkJpk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\index.html",
+      "SourceId": "CoffeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\",
+      "BasePath": "_content/CoffeeApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uc3qc0y63x",
+      "Integrity": "gkD9Rz33YySrwZCYaBIb5lVpNNUT1wY3fxxKu8Naook=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\style.css",
+      "SourceId": "CoffeeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\",
+      "BasePath": "_content/CoffeeApp",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "isxfj96mtq",
+      "Integrity": "LhBVKzeoEpKiMq9HEX3Sv+LcBLDUuzQ0AuV1qPxz/cA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.gcp0v0bfla.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJCM7+vQD+XDCku7i61gSYpin8Fy0JSsSCBM+9BkJpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Nov 2026 08:11:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcp0v0bfla"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJCM7+vQD+XDCku7i61gSYpin8Fy0JSsSCBM+9BkJpk="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sJCM7+vQD+XDCku7i61gSYpin8Fy0JSsSCBM+9BkJpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Nov 2026 08:11:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sJCM7+vQD+XDCku7i61gSYpin8Fy0JSsSCBM+9BkJpk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gkD9Rz33YySrwZCYaBIb5lVpNNUT1wY3fxxKu8Naook=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Nov 2026 10:09:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkD9Rz33YySrwZCYaBIb5lVpNNUT1wY3fxxKu8Naook="
+        }
+      ]
+    },
+    {
+      "Route": "index.uc3qc0y63x.html",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gkD9Rz33YySrwZCYaBIb5lVpNNUT1wY3fxxKu8Naook=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Nov 2026 10:09:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uc3qc0y63x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkD9Rz33YySrwZCYaBIb5lVpNNUT1wY3fxxKu8Naook="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhBVKzeoEpKiMq9HEX3Sv+LcBLDUuzQ0AuV1qPxz/cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Nov 2026 08:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhBVKzeoEpKiMq9HEX3Sv+LcBLDUuzQ0AuV1qPxz/cA="
+        }
+      ]
+    },
+    {
+      "Route": "style.isxfj96mtq.css",
+      "AssetFile": "C:\\Users\\user\\Documents\\370\\пр\\CoffeeApp (3)\\CoffeeApp\\CoffeeApp\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LhBVKzeoEpKiMq9HEX3Sv+LcBLDUuzQ0AuV1qPxz/cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Nov 2026 08:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "isxfj96mtq"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LhBVKzeoEpKiMq9HEX3Sv+LcBLDUuzQ0AuV1qPxz/cA="
+        }
+      ]
+    }
+  ]
+}
